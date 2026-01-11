@@ -1,4 +1,4 @@
-# Lab 01: What is Networking? 📝
+# Lab 02: What is Networking? 📝
 
 ## Objective
 To learn the fundamentals of networking. 
